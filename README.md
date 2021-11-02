@@ -41,7 +41,7 @@ By default, only a plugin for git is activated. However, Oh My Zsh comes with a 
 
 ### Additional settings
 
-Current installation offers only basic Oh My Zsh functionalities. For additional features, please check `.zshrc.pre-oh-my-zsh` file in your home directory. Desired variables have to be added to your `.zshrc` file right after other Oh My Zsh variables.
+Current installation offers only basic Oh My Zsh functionalities. For additional features, please check `.zshrc.oh-my-zsh` file in your home directory. Desired variables have to be added to your `.zshrc` file right after other Oh My Zsh variables.
 
 ## References
 
