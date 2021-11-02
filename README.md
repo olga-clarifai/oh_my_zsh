@@ -9,6 +9,7 @@ This script installs Oh My Zsh and required fonts in one click. It sets up a nic
 ### Prerequisites
 - macOS
 - zsh terminal shell (>v4.3.9)
+- git(>v2.4.11)
 - curl
 
 ### Installation
