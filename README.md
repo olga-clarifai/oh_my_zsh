@@ -9,14 +9,14 @@ This script installs Oh My Zsh and required fonts in one click. It sets up a nic
 ### Prerequisites
 - macOS
 - zsh terminal shell (>v4.3.9)
-- git(>v2.4.11)
+- git (>v2.4.11)
 - curl
 
 ### Installation
 
 🔥 **Proceed at your own risk!** 🔥
 
-To install `omz_install.sh`, run the following command in your terminal:
+To install and configure Oh My Zsh, run this one command in your terminal and you're done:
 
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/olga-clarifai/oh_my_zsh/main/omz_install.sh)"
